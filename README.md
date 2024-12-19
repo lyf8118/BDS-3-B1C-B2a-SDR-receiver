@@ -92,57 +92,57 @@ Signals to be downloaded are in the following link
 -------------------------------------------------------------------------------
 * Beidou_B3I_IF_signal.bin
       * link: https://pan.baidu.com/s/14X937mHKtB4pxZKPPlDx6A password: p9v9
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 8.52e6 Hz
-      * -- sampling Frequency: 40e6 Hz
-* B1C_fs_99.375_if14.58.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 8.52e6 Hz
+      * sampling Frequency: 40e6 Hz
+* B1C_fs_99.375_if14.58.bin
       * (link:): https://pan.baidu.com/s/12X4Ov-eSDb7w11CydI6ryg password: srgh
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 14.58e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
-* B1I_IF3.902_Fs23.8.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 14.58e6 Hz
+      * sampling Frequency: 99.375e6 Hz
+* B1I_IF3.902_Fs23.8.bin
       * (link:): https://pan.baidu.com/s/1sjvP9ONP7fh9vR6a3_bGzg password: z95r
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 14.58e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
-* GPS_L2C_IF_signal.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 14.58e6 Hz
+      * sampling Frequency: 99.375e6 Hz
+* GPS_L2C_IF_signal.bin
       * (link:): https://pan.baidu.com/s/1TB4NBtFG0Bgx3iOboyHObg password: 7kqe
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 7.4e6 Hz
-      * -- sampling Frequency: 53e6 Hz
-* GPS_L1_CA_IF_signal.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 7.4e6 Hz
+      * sampling Frequency: 53e6 Hz
+* GPS_L1_CA_IF_signal.bin
       * (link:) https://pan.baidu.com/s/1Y78Qlxo2rgIcGXDHiPQ_aw password: 2dr5
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 14.58e6 Hz
-      * -- sampling Frequency: 53e6 Hz
-* IF_Data_Set_L5C.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 14.58e6 Hz
+      * sampling Frequency: 53e6 Hz
+* IF_Data_Set_L5C.bin
       * (link:): https://pan.baidu.com/s/1L7yyjzLAHsUKkRdLqEIWOQ password: 7r94
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 13.55e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
-* Galileo_E5a_IF_signal.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 13.55e6 Hz
+      * sampling Frequency: 99.375e6 Hz
+* Galileo_E5a_IF_signal.bin
       * link: https://pan.baidu.com/s/1e0RJsq1c8sfoxQvs6ItO2Q password: 1j33
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 13.55e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
-* BDS_B2a_IF_signal.bin --------------------------
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 13.55e6 Hz
+      * sampling Frequency: 99.375e6 Hz
+* BDS_B2a_IF_signal.bin
       * (link:): https://pan.baidu.com/s/1jqrCt9BcakgqDFUFiKl50Q password: kf4c
-      * -- also for Galileo E5a
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 13.55e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
-* BDS_B2a_IF_signal.bin --------------------------
+      * also for Galileo E5a
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 13.55e6 Hz
+      * sampling Frequency: 99.375e6 Hz
+* BDS_B2a_IF_signal.bin
       * (link:): https://pan.baidu.com/s/1z-7jWyRvdNVqHM51-Ac16Q password: 5a7d
-      * -- also for Galileo E5b
-      * -- dataType: schar
-      * -- fileType: 8 bit real samples
-      * -- IF: 17.14e6 Hz
-      * -- sampling Frequency: 99.375e6 Hz
+      * also for Galileo E5b
+      * dataType: schar
+      * fileType: 8 bit real samples
+      * IF: 17.14e6 Hz
+      * sampling Frequency: 99.375e6 Hz
